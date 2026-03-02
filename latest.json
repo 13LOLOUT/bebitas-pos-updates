@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "releaseDate": "2026-03-02",
-  "notes": "Acceso directo en escritorio, anclaje a barra de tareas y limpieza automatica de instaladores anteriores",
-  "url": "https://github.com/13LOLOUT/bebitas-pos-updates/releases/download/v1.3.0/BebitasPOS-1.3.0-Setup.exe",
-  "portableUrl": "https://github.com/13LOLOUT/bebitas-pos-updates/releases/download/v1.3.0/BebitasPOS-1.3.0-Portable.exe",
+  "notes": "Rediseno del sistema de actualizaciones, notificaciones modernas, limpieza automatica de dist, organizacion del proyecto",
+  "url": "https://github.com/13LOLOUT/bebitas-pos-updates/releases/download/v1.4.0/BebitasPOS-1.4.0-Setup.exe",
+  "portableUrl": "https://github.com/13LOLOUT/bebitas-pos-updates/releases/download/v1.4.0/BebitasPOS-1.4.0-Portable.exe",
   "mandatory": true
 }
