@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "releaseDate": "2026-03-02",
-  "notes": "Rediseno del sistema de actualizaciones, notificaciones modernas, limpieza automatica de dist, organizacion del proyecto",
-  "url": "https://github.com/13LOLOUT/bebitas-pos-updates/releases/download/v1.4.0/BebitasPOS-1.4.0-Setup.exe",
-  "portableUrl": "https://github.com/13LOLOUT/bebitas-pos-updates/releases/download/v1.4.0/BebitasPOS-1.4.0-Portable.exe",
+  "notes": "Correccion de version en pantalla de inicio",
+  "url": "https://github.com/13LOLOUT/bebitas-pos-updates/releases/download/v1.4.1/BebitasPOS-1.4.1-Setup.exe",
+  "portableUrl": "https://github.com/13LOLOUT/bebitas-pos-updates/releases/download/v1.4.1/BebitasPOS-1.4.1-Portable.exe",
   "mandatory": true
 }
