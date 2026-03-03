@@ -1,8 +1,8 @@
 {
-  "version": "1.4.2",
-  "releaseDate": "2026-03-02",
-  "notes": "Mejoras en backup automatico y optimizacion post-actualizacion",
-  "url": "https://github.com/13LOLOUT/bebitas-pos-updates/releases/download/v1.4.2/BebitasPOS-1.4.2-Setup.exe",
-  "portableUrl": "https://github.com/13LOLOUT/bebitas-pos-updates/releases/download/v1.4.2/BebitasPOS-1.4.2-Portable.exe",
+  "version": "1.5.0",
+  "releaseDate": "2026-03-03",
+  "notes": "Optimizaciones de rendimiento, menu expandido (70+ productos), prevencion de apagado de pantalla",
+  "url": "https://github.com/13LOLOUT/bebitas-pos-updates/releases/download/v1.5.0/BebitasPOS-1.5.0-Setup.exe",
+  "portableUrl": "https://github.com/13LOLOUT/bebitas-pos-updates/releases/download/v1.5.0/BebitasPOS-1.5.0-Portable.exe",
   "mandatory": true
 }
